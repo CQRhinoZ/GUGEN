@@ -285,39 +285,39 @@ TABLE III: PERFORMANCE COMPARISON IN MAP@K AND MRR ON THREE DATASETS
     <th colspan="4">Gowalla-CA</th>
   </tr>
   <tr>
-    <td>Acc@1</td>
-    <td>Acc@5</td>
-    <td>Acc@10</td>
-    <td>Acc@20</td>
-    <td>Acc@1</td>
-    <td>Acc@5</td>
-    <td>Acc@10</td>
-    <td>Acc@20</td>
-    <td>Acc@1</td>
-    <td>Acc@5</td>
-    <td>Acc@10</td>
-    <td>Acc@20</td>
+    <td>MAP@5</td>
+    <td>MAP@10</td>
+    <td>MAP@20</td>
+    <td>MRR</td>
+    <td>MAP@5</td>
+    <td>MAP@10</td>
+    <td>MAP@20</td>
+    <td>MRR</td>
+    <td>MAP@5</td>
+    <td>MAP@10</td>
+    <td>MAP@20</td>
+    <td>MRR</td>
   </tr>
   <tr>
     <td>RNN</td>
     <td>-</td>
-    <td>0.0984</td>
-    <td>0.2133</td>
-    <td>0.2581</td>
-    <td>0.3019</td>
-    <td>0.0772</td>
-    <td>0.1474</td>
-    <td>0.1682</td>
-    <td>0.1763</td>
-    <td>0.0534</td>
-    <td>0.13</td>
-    <td>0.1451</td>
-    <td>0.1534</td>
+    <td>0.1383</td>
+    <td>0.1449</td>
+    <td>0.1477</td>
+    <td>0.1514</td>
+    <td>0.1272</td>
+    <td>0.1333</td>
+    <td>0.1378</td>
+    <td>0.141</td>
+    <td>0.0968</td>
+    <td>0.1042</td>
+    <td>0.1077</td>
+    <td>0.1114</td>
   </tr>
   <tr>
     <td>LSTM</td>
     <td>-</td>
-    <td>0.0995</td>
+    <td> 0.1402 0.1461 0.1496 0.1526 0.1282 0.1352 0.1389 0.1428 0.0982 0.1051 0.1086 0.1128</td>
     <td>0.2145</td>
     <td>0.2596</td>
     <td>0.304</td>
