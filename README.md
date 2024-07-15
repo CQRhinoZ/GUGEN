@@ -1,6 +1,7 @@
 # GUGEN: Global User Graph Enhanced Network For Next POI Recommendation
 
 This is a pytorch implementation of 《GUGEN: Global User Graph Enhanced Network For Next POI Recommendation》(IEEE TMC 2024, under review). 
+Detail information will be released after publication.
 
 
 ## Abstract
@@ -539,6 +540,12 @@ TABLE III: PERFORMANCE COMPARISON IN MAP@K AND MRR ON THREE DATASETS
   </tr>
 </table>
 
+## Architecture
+
+```
+<TBD>
+```
+
 ## Installation
 
 - Install Pytorch 1.8.1 (Note that the results reported in the paper are obtained by running the code on this Pytorch version. As raised by the issue, using higher version of Pytorch may seem to have a performance decrease on optic cup segmentation.)
@@ -570,7 +577,7 @@ After installing the dependency:
 ## Citation
 
 ```
-GUGEN: Global User Graph Enhanced Network For Next POI Recommendation, IEEE TMC 2024 (under review)
+<TBD>
 ```
 
 Feel free to contact us:
