@@ -10,7 +10,7 @@ Learning the next Point-of-Interest (POI) is a highly context-dependent human mo
 model the global and user context information. From the global perspective, two graphs are designed to represent the global POI features and the geographical relationships of all POIs. From the user perspective, a user graph is constructed to describe each users’ historical POI information. We evaluated the proposed model on three real-world datasets. The experimental evaluations demonstrate that the proposed GUGEN method outperforms the state-of-the-art approaches for the next POI recommendation.
 
 ## Performance
-
+TABLE II: PERFORMANCE COMPARISON IN ACC@K ON THREE DATASETS
 <table style="width:100%;">
   <tr>
     <th rowspan="2">Model</th>
