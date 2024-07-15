@@ -41,15 +41,11 @@ After installing the dependency:
 
 ```
 GUGEN: Global User Graph Enhanced Network For Next POI Recommendation, IEEE TMC 2024 (under review)
-
 ```
 
 Feel free to contact us:
 
-Xu ZHANG, Ph.D, Associate Professor
-
+Xu ZHANG, Ph.D, Professor
 Chongqing University of Posts and Telecommunications
-
 Email: zhangx@cqupt.edu.cn
-
 Website: https://faculty.cqupt.edu.cn/zhangx/zh_CN/index.htm
