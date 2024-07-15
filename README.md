@@ -247,11 +247,11 @@ TABLE II: PERFORMANCE COMPARISON IN ACC@K ON THREE DATASETS
     <td>0.2775</td>
     <td>0.5638</td>
     <td>0.6814</td>
-    <td>**0.7813**</td>
+    <td><b>0.7813</b></td>
     <td>0.2604</td>
     <td>0.5095</td>
     <td>0.5872</td>
-    <td>**0.7134**</td>
+    <td><b>0.7134</b></td>
     <td>0.2714</td>
     <td>0.4389</td>
     <td>0.5171</td>
