@@ -155,7 +155,7 @@ TABLE II: PERFORMANCE COMPARISON IN ACC@K ON THREE DATASETS
     <td>0.3911</td>
     <td>0.5213</td>
     <td>0.5886</td>
-    <td>0.212</td>
+    <td>0.2120</td>
     <td>0.3394</td>
     <td>0.4261</td>
     <td>0.4972</td>
@@ -163,12 +163,12 @@ TABLE II: PERFORMANCE COMPARISON IN ACC@K ON THREE DATASETS
   <tr>
     <td>HiLS</td>
     <td>TMC24</td>
-    <td>0.286</td>
-    <td>0.564</td>
+    <td>0.2860</td>
+    <td>0.5640</td>
     <td>0.6732</td>
     <td>0.7239</td>
-    <td>0.241</td>
-    <td>0.437</td>
+    <td>0.2410</td>
+    <td>0.4370</td>
     <td>0.5495</td>
     <td>0.6319</td>
     <td>0.2486</td>
@@ -228,7 +228,7 @@ TABLE II: PERFORMANCE COMPARISON IN ACC@K ON THREE DATASETS
     <td>FPGT</td>
     <td>ASC23</td>
     <td>0.2814</td>
-    <td>0.563</td>
+    <td>0.5630</td>
     <td>0.6771</td>
     <td>0.7494</td>
     <td>0.2603</td>
@@ -269,7 +269,7 @@ TABLE II: PERFORMANCE COMPARISON IN ACC@K ON THREE DATASETS
     <td>0.6631</td>
     <td><b>0.2857</b></td>
     <td>0.4532</b></td>
-    <td><b>0.525</b></td>
+    <td><b>0.5250</b></td>
     <td><b>0.5874</b></td>
   </tr>
 </table>
@@ -307,7 +307,7 @@ TABLE III: PERFORMANCE COMPARISON IN MAP@K AND MRR ON THREE DATASETS
     <td>0.1272</td>
     <td>0.1333</td>
     <td>0.1378</td>
-    <td>0.141</td>
+    <td>0.1410</td>
     <td>0.0968</td>
     <td>0.1042</td>
     <td>0.1077</td>
@@ -342,7 +342,7 @@ TABLE III: PERFORMANCE COMPARISON IN MAP@K AND MRR ON THREE DATASETS
     <td>0.1475</td>
     <td>0.1016</td>
     <td>0.1085</td>
-    <td>0.113</td>
+    <td>0.1130</td>
     <td>0.1165</td>
   </tr>
   <tr>
@@ -354,10 +354,10 @@ TABLE III: PERFORMANCE COMPARISON IN MAP@K AND MRR ON THREE DATASETS
     <td>0.1758</td>
     <td>0.1478</td>
     <td>0.1557</td>
-    <td>0.16</td>
+    <td>0.1600</td>
     <td>0.1643</td>
     <td>0.1131</td>
-    <td>0.121</td>
+    <td>0.1210</td>
     <td>0.1252</td>
     <td>0.1298</td>
   </tr>
