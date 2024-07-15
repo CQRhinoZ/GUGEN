@@ -5,9 +5,7 @@ This is a pytorch implementation of GUGEN: Global User Graph Enhanced Network Fo
 
 ## Architecture
 
-<p align="center">
-  <img src="https://github.com/CQRhinoZ/framework.png">
-</p>
+The architecture will be released soon.
 
 
 
