@@ -40,6 +40,7 @@ After installing the dependency:
 ## Citation
 
 ```
+GUGEN: Global User Graph Enhanced Network For Next POI Recommendation, IEEE TMC 2024 (under review)
 
 ```
 
