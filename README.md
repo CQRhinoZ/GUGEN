@@ -260,18 +260,18 @@ TABLE II: PERFORMANCE COMPARISON IN ACC@K ON THREE DATASETS
   <tr>
     <td>GUGEN</td>
     <td></td>
-    <td>**0.2981**</td>
-    <td>**0.5925**</td>
-    <td>**0.6929**</td>
+    <td><b>0.2981</b></td>
+    <td><b>0.5925</b</td>
+    <td><b>0.6929</b</td>
     <td>0.7566</td>
-    <td>**0.2743**</td>
-    <td>**0.5132**</td>
-    <td>**0.5916**</td>
+    <td><b>0.2743</b</td>
+    <td><b>0.5132</b</td>
+    <td><b>0.5916</b</td>
     <td>0.6631</td>
-    <td>**0.2857**</td>
-    <td>**0.4532**</td>
-    <td>**0.525**</td>
-    <td>**0.5874**</td>
+    <td><b>0.2857</b</td>
+    <td>0.4532</b</td>
+    <td><b>0.525</b</td>
+    <td><b>0.5874</b</td>
   </tr>
 </table>
 
