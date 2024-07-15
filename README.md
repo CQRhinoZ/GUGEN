@@ -1,13 +1,13 @@
 # GUGEN
 # GUGEN: Global User Graph Enhanced Network For Next POI Recommendation
 
-This is a pytorch implementation of GUGEN: Global User Graph Enhanced Network For Next POI Recommendation. 
-
-## Architecture
-
-The architecture will be released soon.
+This is a pytorch implementation of 《GUGEN: Global User Graph Enhanced Network For Next POI Recommendation》(IEEE TMC 2024, under review). 
 
 
+## Abstract
+
+Learning the next Point-of-Interest (POI) is a highly context-dependent human movement behavior prediction task, which has gained increasing attention with the consideration of massive spatial-temporal trajectories data or check-in data. The spatial dependency, temporal dependency, sequential dependency and social network dependency are widely considered pivotal to predict the users’ next location in the near future. However, most existing models fail to consider the influence of other users’ movement patterns and the correlation with the POIs the user has visited. Therefore, we propose a Global User Graph Enhanced Network (GUGEN) for the next POI recommendation from a global and a user perspectives. Firstly, a trajectory learning network is designed to model the users’ short-term preference. Second, a geographical learning module is designed to
+model the global and user context information. From the global perspective, two graphs are designed to represent the global POI features and the geographical relationships of all POIs. From the user perspective, a user graph is constructed to describe each users’ historical POI information. We evaluated the proposed model on three real-world datasets. The experimental evaluations demonstrate that the proposed GUGEN method outperforms the state-of-the-art approaches for the next POI recommendation.
 
 ## Installation
 
