@@ -1,6 +1,6 @@
 # GUGEN: Global User Graph Enhanced Network For Next POI Recommendation
 
-This is a pytorch implementation of 《GUGEN: Global User Graph Enhanced Network For Next POI Recommendation》(IEEE TMC 2024, Accepted). 
+This is a pytorch implementation of 《GUGEN: Global User Graph Enhanced Network For Next POI Recommendation》(IEEE TMC 2024, [DOI]((https://doi.org/10.1109/TMC.2024.3455107)). 
 
 Detail information will be released after publication.
 
