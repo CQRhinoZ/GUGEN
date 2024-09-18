@@ -576,7 +576,17 @@ After installing the dependency:
 ## Citation
 
 ```
-<TBD>
+@ARTICLE{10666106,
+  author={Zuo, Changqi and Zhang, Xu and Yan, Liang and Zhang, Zuyu},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={GUGEN: Global User Graph Enhanced Network for Next POI Recommendation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-12},
+  keywords={Trajectory;Long short term memory;History;Social networking (online);Data models;Transformers;Reviews;GRU;graph neural networks;long-term preference;next POI recommendation;recommendation systems},
+  doi={10.1109/TMC.2024.3455107}}
+
 ```
 
 Feel free to contact us:
